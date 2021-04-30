@@ -14,7 +14,7 @@ Hi! I'm many things, but here is the rundown:
   * PLCs & PID Controllers
   * Industrial networks
   * Synchronous reluctance motors
-- HVACR systems and refrigerant physics
+- HVACR systems
 
 ### Experience ([LinkedIn](https://www.linkedin.com/in/kaden-thomas-6027a1103/))
 - 2+ Years of Full Stack Typescript / Javascript Development
