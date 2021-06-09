@@ -5,6 +5,7 @@ Hi! I'm many things, but here is the rundown:
 ### Interests
 - Functional Programming
 - Machine learning
+- Electrodynamics
 - Abnormal Psychology
 - Computer language design
   * LISP design
@@ -17,7 +18,7 @@ Hi! I'm many things, but here is the rundown:
 - HVACR systems
 
 ### Experience ([LinkedIn](https://www.linkedin.com/in/kaden-thomas-6027a1103/))
-- 2+ Years of Full Stack Typescript / Javascript Development
-- Currently taking courses in Industrial Electronics & Instrumentation
+- 3+ Years of Full Stack Typescript / Javascript Development
+- Currently taking courses in Industrial Electronics & Instrumentation part time
 
 
